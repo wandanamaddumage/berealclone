@@ -4,11 +4,12 @@
     "slug": "berealclone",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/myicon/icon.png",
     "scheme": "berealclone",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.wandana-m.berealclone"
     },
     "android": {
       "adaptiveIcon": {
